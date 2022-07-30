@@ -28,6 +28,7 @@ public class ascii {
         int width = img.getWidth();
         int height = img.getHeight();
 
+        if(size > width) size = width;
         int xratio = size;
         int yratio = (height*xratio/width) / 2;
         int xconstant = width/xratio;
