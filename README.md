@@ -31,11 +31,13 @@
 
 ### Text to Ascii
 
+```
  _  __ _  _     _     _     ____ 
 / |/ // \/ \   / \   / \ /\/  _ \
 |   / | || |   | |   | | ||| / \|
 |   \ | || |_/\| |_/\| \_/|| |-||
 \_|\_\\_/\____/\____/\____/\_/ \|
+```
 
 - Converts the provided text into ascii characters (purely for aesthetic looks)
 
