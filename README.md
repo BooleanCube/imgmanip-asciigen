@@ -32,3 +32,4 @@
 
 1. Iterate through the levels of the ascii map (from top to bottom)
 2. Iterate through the characters of the provided text
+3. Select the String at the position of that alphabet in the asciiMap and append it to the resulting ascii text.
