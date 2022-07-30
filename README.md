@@ -2,6 +2,8 @@
 > Many tools for manipulating images and generating ascii images and texts.
 
 ### Image to grayscale
+<img src="https://user-images.githubusercontent.com/47650058/181915471-ea54debd-c62b-4d53-b702-1e084674e77a.jpg" alt="normal killua" width="150"> <img src="https://user-images.githubusercontent.com/47650058/181915303-cc693e76-0f2d-4835-be0c-d9faca6de086.png" alt="gray killua" width="150">
+
 - Converts the provided image to grayscale
 
 #### Converting to Grayscale Image
@@ -13,6 +15,9 @@
 6. Update the pixel's color.
 
 ### Image to Ascii
+<img src="https://user-images.githubusercontent.com/47650058/181915471-ea54debd-c62b-4d53-b702-1e084674e77a.jpg" alt="normal killua" width="150"> <img src="https://user-images.githubusercontent.com/47650058/181915533-11d0c1fe-7329-49e2-a4c1-9a099d4c05f5.png" alt="ascii killua" width="150">
+
+
 1. Asks for desired ascii image resolution (width in characters) (the higher the better)
 2. Converts the provided image to grayscale
 3. Converts the grayscale image to ascii text according to the given resolution (using a linearly distrubted intensity character map)
@@ -25,6 +30,13 @@
 3. Based on the calculated intensity of the pixel, select an ascii character from the intensity map and append it to the final resulting ascii image.
 
 ### Text to Ascii
+
+ _  __ _  _     _     _     ____ 
+/ |/ // \/ \   / \   / \ /\/  _ \
+|   / | || |   | |   | | ||| / \|
+|   \ | || |_/\| |_/\| \_/|| |-||
+\_|\_\\_/\____/\____/\____/\_/ \|
+
 - Converts the provided text into ascii characters (purely for aesthetic looks)
 
 *This only works for alphabetical letters and no other characters* <br>
