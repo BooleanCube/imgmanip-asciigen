@@ -42,7 +42,7 @@ public class grayscale {
             }
         }
 
-        File gray = new File("imagetoascii.grayscale/out.png");
+        File gray = new File("grayscale/out.png");
         String extension = getFileExtension(gray);
         ImageIO.write(img, extension, gray);
     }

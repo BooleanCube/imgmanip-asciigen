@@ -30,7 +30,7 @@ public class ascii {
 
         if(size > width) size = width;
         int xratio = size;
-        int yratio = (height*xratio/width) / 2;
+        int yratio = (int)((height*xratio/width) / 1.8);
         int xconstant = width/xratio;
         int yconstant = height/yratio;
 
