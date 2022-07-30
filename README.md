@@ -15,7 +15,7 @@
 6. Update the pixel's color.
 
 ### Image to Ascii
-<img src="https://user-images.githubusercontent.com/47650058/181915471-ea54debd-c62b-4d53-b702-1e084674e77a.jpg" alt="normal killua" width="150"> <img src="https://user-images.githubusercontent.com/47650058/181918198-5c3b0ad2-d65c-4a14-b123-45199a6efeaa.png" alt="ascii killua" width="150">
+<img src="https://user-images.githubusercontent.com/47650058/181915471-ea54debd-c62b-4d53-b702-1e084674e77a.jpg" alt="normal killua" width="150"> <img src="[https://user-images.githubusercontent.com/47650058/181918198-5c3b0ad2-d65c-4a14-b123-45199a6efeaa.png](https://user-images.githubusercontent.com/47650058/181918270-2e0b1f2a-4b27-49ac-8f44-8016cbe8241b.png)" alt="ascii killua" width="150">
 
 1. Asks for desired ascii image resolution (width in characters) (the higher the better)
 2. Converts the provided image to grayscale
